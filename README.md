@@ -4,8 +4,8 @@
 <p></p>The Sales Dashboard is an interactive Excel tool designed to provide a comprehensive overview of sales performance. It enables users to analyze key sales metrics through various dimensions and time periods, using intuitive slicers for easy data filtering and visualization.</p>
 
 <H2>Dashboard page</H2>
+<img width="746" alt="Supermarket_Sales PNG" src="https://github.com/kharolekaran03/Excel_Supermarket_sales_Dashboard/assets/161187229/a693f74e-69c7-49f7-b9e0-24c6a6ecfbf0">
 
-<img width="746" alt="image" src="https://github.com/kharolekaran03/Excel-Sales-Dashboard-Project/assets/161187229/b6d44b99-a1a6-4de7-8f37-89ffd4856aed">
 
 
 
